@@ -1,0 +1,108 @@
+{
+  "homepage": {
+    "title1": "There's a better way to ask",
+    "title2": "You don't want to make a boring form.",
+    "title3": {
+      "login": "Get's started. It's free",
+      "doing": "Doing Quiz Now"
+    }
+  },
+  "header": {
+    "home": "Home",
+    "user": "User",
+    "admin": "Admin",
+    "setting": "Setting",
+    "profile": "Profile",
+    "signup": "Signup",
+    "login": "Login",
+    "logout": "Logout",
+    "quiz": "Start quiz"
+  },
+  "quiz": {
+    "question": "Question",
+    "result": "Result...",
+    "total-question": "Total question",
+    "total-correct": "Total correct",
+    "show-answer": "Show answer",
+    "close": "Close"
+  },
+  "login": {
+    "do-not-have": "Do have'nt account",
+    "signup": "Signup",
+    "welcome": "Welcome :)",
+    "email": "Email",
+    "password": "Password",
+    "forgot-pass": "Forgot password ?",
+    "do-login": "Login",
+    "back": "Back"
+  },
+  "register": {
+    "already": "Are you have account?",
+    "login": "Login",
+    "start": "Fasst fill !!!",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "submit": "Create account",
+    "back": "Back"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Analytics",
+      "total-user": "Total Users",
+      "total-quiz": "Total quiz",
+      "total-question": "Total question",
+      "total-answer": "Total answer"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "manage-user": "Manage user",
+      "manage-quiz": "Manage quiz",
+      "manage-question": "Manage question",
+      "feature": "Feature",
+      "brand": "NVA"
+    },
+    "manage-users": {
+      "title": "Manage users",
+      "add-new": "Add new",
+      "role": "Role",
+      "action": "Action",
+      "update": "Update",
+      "delete": "Delete",
+      "view": "Detail",
+      "modal": {
+        "title": "Add new Users",
+        "role": "Role",
+        "t-update": "Update user",
+        "t-delete": "Confirm delete this user?",
+        "confirm": "You sure delete this user?",
+        "sure": "Save",
+        "cancel": "Cancel"
+      }
+    },
+    "manage-quiz": {
+      "a1": "Manage quiz",
+      "a2": "Update Q/A for quiz",
+      "a3": "Assign Quiz for user",
+      "add-quiz": "Add new quiz",
+      "quiz-name": "Title",
+      "quiz-desc": "Description",
+      "quiz-save": "Save",
+      "quiz-upload": "Upload image",
+      "s-quiz": "Choose Quiz:",
+      "s-user": "Choose User:",
+      "a-questions": "Question:",
+      "add-questions": "Add question:",
+      "q": "Question",
+      "a": "Result",
+      "d": "Description",
+      "u": "Update Quiz",
+      "q-assign": "Assign Quiz For User",
+      "sq": "Save question",
+      "tg": "Manage Questions"
+    }
+  },
+  "profile": {
+    "title": "Profile"
+  }
+}

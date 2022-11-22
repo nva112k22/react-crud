@@ -1,0 +1,109 @@
+{
+
+    "homepage": {
+            "title1": "Có rất nhiều điều để hỏi",
+            "title2": "và cách dễ nhất là thứ làm cái bài quizz...",
+            "title3": {
+              "login": "Bắt đầu ngay. Hoàn toàn miễn phí.",
+              "doing": "Làm bài quiz now"
+            }
+    },
+    "header": {
+      "home": "Trang chủ",
+      "user": "Người dùng",
+      "admin": "Quản trị",
+      "setting": "Cài đặt",
+      "profile": "Thông tin cá nhân",
+      "login": "Đăng nhập",
+      "signup": "Đăng ký",
+      "logout": "Đăng xuất",
+      "quiz": "Làm bài quiz"
+    },
+    "quiz": {
+      "question": "Câu hỏi",
+      "result": "Kết quả bài thi...",
+      "total-question": "Tổng số câu hỏi",
+      "total-correct": "Tổng số câu trả lời đúng",
+      "show-answer": "Hiển thị đáp án",
+      "close": "Đóng"
+    },
+    "login": {
+      "do-not-have": "Bạn chưa có tài khoản",
+      "signup": "Đăng ký",
+      "welcome": "Hello, 500 anh em :)",
+      "email": "Email",
+      "password": "Mật khẩu",
+      "forgot-pass": "Quên mật khẩu cmnr ?",
+      "do-login": "Login nào",
+      "back": "Trở về trang chủ"
+    },
+    "register": {
+      "already": "Bạn đã có tài khoản?",
+      "login": "Đăng nhập",
+      "start": "Điền nhanh nào ^^",
+      "email": "Email",
+      "password":"Mật khẩu",
+      "username": "Tên hiển thị",
+      "submit": "Tạo tài khoản",
+      "back": "Trở về trang chủ"
+    },
+    "admin": {
+      "dashboard": {
+        "title": "Thống kê",
+        "total-user": "Tổng Users",
+        "total-quiz": "Tổng bài Test",
+        "total-question": "Tổng câu hỏi",
+        "total-answer": "Tổng câu trả lời"
+      },
+      "sidebar": {
+        "dashboard": "Tổng quan",
+        "manage-user": "Quản lý người dùng",
+        "manage-quiz": "Quản lý Quizzes",
+        "manage-question": "Quản lý Questions",
+        "feature": "Chức năng",
+        "brand": "NVA"
+      },
+      "manage-users": {
+        "title": "Quản lý người dùng",
+        "add-new": "Thêm mới",
+        "role": "Vai trò",
+        "action": "Hành động",
+        "update": "Sửa",
+        "delete": "Xóa",
+        "view": "Chi tiết",
+        "modal": {
+          "title": "Thêm mới Users",
+          "role": "Vai trò",
+          "t-update": "Cập nhật người dùng",
+          "t-delete": "Xác nhận xóa người dùng?",
+          "confirm": "Bạn có chắc chắn muốn xóa người dùng này?",
+          "sure": "Xác nhận",
+          "cancel": "Hủy"
+        }
+      }, 
+      "manage-quiz": {
+        "a1": "Quản lý bài thi",
+        "a2": "Cập nhật Q/A cho bài thi",
+        "a3": "Gán Quiz cho người dùng",
+        "add-quiz": "Thêm bài quiz mới",
+        "quiz-name": "Tên bài Quiz",
+        "quiz-desc": "Miêu tả",
+        "quiz-save": "Lưu",
+        "quiz-upload": "Tải ảnh",
+        "s-quiz": "Chọn Quiz:",
+        "s-user": "Chọn người dùng:",
+        "a-questions": "Câu hỏi:",
+        "add-questions": "Thêm câu hỏi:",
+        "q": "Câu hỏi",
+        "a": "Đáp án",
+        "d": "Miêu tả",
+        "u": "Cập nhật bài Quiz",
+        "q-assign": "Gán Quiz cho User",
+        "sq": "Lưu câu hỏi",
+        "tg": "Quản lý Questions"
+      }
+    },
+    "profile": {
+      "title": "Trang cá nhân"
+    }
+}
